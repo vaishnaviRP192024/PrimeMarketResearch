@@ -7,7 +7,7 @@ title: Graphic Processing Unit Market
 ## Introduction to the Treatment Resistant Depression (TRD) Market
 Treatment Resistant Depression (TRD) refers to a major depressive disorder that does not respond to at least two different antidepressant treatments of adequate dose and duration. This market has gained significant attention due to the growing prevalence of depression and the unmet medical needs in managing cases resistant to standard treatments. TRD imposes a substantial burden on healthcare systems and societies, making it a critical area of focus for pharmaceutical innovation and mental health services.
 
-Read more: (Treatment Resistant Depression Market)[https://www.reportprime.com/treatment-resistant-depression-r20068]
+Read more: [Treatment Resistant Depression Market](https://www.reportprime.com/treatment-resistant-depression-r20068)
 ## Market Overview and Key Statistics
 - **Market Size (2023)**: USD 5.2 Billion
 - **Projected Market Size (2030)**: USD 12.6 Billion
