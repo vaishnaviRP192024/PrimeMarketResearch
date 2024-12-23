@@ -1,3 +1,7 @@
+---
+layout: default
+title: Graphic Processing Unit Market
+---
 # Treatment Resistant Depression (TRD) Market Share Analysis and Forecast 2025
 
 ## Introduction to the Treatment Resistant Depression (TRD) Market
