@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Graphic Processing Unit Market
+---
 # Graphic Processing Unit Market Share Analysis and Research Forecast 2025
 
 ## Market Report: Graphic Processing Unit (GPU) Market
