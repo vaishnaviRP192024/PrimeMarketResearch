@@ -37,7 +37,7 @@ The Middle East and Africa are emerging markets for polyurea coatings, with dema
 1. **PPG Industries**: $17.6 billion (Total revenue in 2023; significant investments in industrial and protective coatings).
 2. **Sherwin-Williams**: $22.1 billion (Total revenue; polyurea coatings for construction and infrastructure projects).
 3. **BASF SE**: $87.3 billion (Total revenue; a leader in chemical innovations and polyurea formulations).
-4. **Kukdo Chemicals**: $3.5 billion (Specialist in polyurea and specialty coatings).
+4. **Kukdo Chemicals**: $3.5 billion (Specialist in polyurea and speciality coatings).
 5. **Rhino Linings Corporation**: $400 million (Revenue from polyurea and protective coating solutions).
 
 ## **Future Prospects: Innovations and Opportunities in the Next 5 Years**
