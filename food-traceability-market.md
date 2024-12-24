@@ -1,3 +1,7 @@
+---
+layout: default
+title: Food Traceability Market
+---
 # Food Traceability Market (2024-2025) Research Report 
 
 ## **Introduction: The Growing Need for Food Traceability**
