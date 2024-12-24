@@ -1,7 +1,3 @@
----
-layout: default
-title: Polyurea Coatings Market
----
 # **Unveiling Durability and Versatility: The Growth Trajectory of the Polyurea Coatings Market (2024-2025)**
 
 ## **Introduction: Polyurea Coatings as a Game-Changer**
