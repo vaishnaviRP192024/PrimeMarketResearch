@@ -2,6 +2,7 @@
 layout: default
 title: Post Production Market
 ---
+
 # Post-Production Market Report: Trends, Technologies and Growth Dynamics (2024-2025)
 
 ## Introduction
