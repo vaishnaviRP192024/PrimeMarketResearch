@@ -12,6 +12,7 @@ In 2023, the steel sector saw a significant surge in private equity and venture 
 At the same time, there was increased interest in merging smaller, regional steel producers into larger entities to drive economies of scale. Venture capital also played a role, backing startups focusing on revolutionary steel production methods, such as hydrogen-based processes, which align with global decarbonization goals.
 
 Read more on Steel Market : [Steel Market](https://www.reportprime.com/steel-r251)
+
 ---
 
 ## **2024: A Slowdown in Investments**
