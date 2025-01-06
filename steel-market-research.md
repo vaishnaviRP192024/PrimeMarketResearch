@@ -9,7 +9,8 @@ The steel market has been an interesting space for private equity (PE) and ventu
 In 2023, the steel sector saw a significant surge in private equity and venture capital investments. The total value of deals reached a remarkable $10.52 billion, marking the highest activity in the past five years. This boom was fueled by the strong global demand for steel in industries like construction, automotive, and renewable energy. Additionally, many investors saw potential in innovative steel production technologies, including efforts to make steel manufacturing greener and more sustainable.
 
 At the same time, there was increased interest in merging smaller, regional steel producers into larger entities to drive economies of scale. Venture capital also played a role, backing startups focusing on revolutionary steel production methods, such as hydrogen-based processes, which align with global decarbonization goals.
-Read more on Steel Market : (Steel Market)[https://www.reportprime.com/steel-r251]
+
+Read more on Steel Market : [Steel Market](https://www.reportprime.com/steel-r251)
 ---
 
 ## **2024: A Slowdown in Investments**
