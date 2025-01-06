@@ -2,6 +2,7 @@
 layout: default
 title: Steel Market
 ---
+
 # **Steel Market Investment Trends: Private Equity and Venture Capital Outlook (2023-2025)** 
 The steel market has been an interesting space for private equity (PE) and venture capital (VC) investments over the past few years, with noticeable shifts and trends emerging from 2023 to 2025. Let me break it down in a simple, humanized way for you:
 
