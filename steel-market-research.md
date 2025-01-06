@@ -23,7 +23,7 @@ Unfortunately, 2024 brought a significant decline in PE and VC activity in the s
 
 3. **Capital-Intensive Nature of Steel**: The steel industry requires significant upfront investments, which became harder to justify during uncertain times.
 
-4. **Shift in Focus**: Investors started channeling funds into industries with faster returns, like technology and renewable energy, rather than the slower-moving steel sector.
+4. **Shift in Focus**: Investors started conducting funds into industries with faster returns, like technology and renewable energy, rather than the slower-moving steel sector.
 
 However, it's not all bad news. Some deals continued, especially those involving innovative steel technologies or efforts to expand into niche markets like lightweight steel for electric vehicles (EVs).
 
